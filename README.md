@@ -9,6 +9,7 @@ Output would be
 - from_currency: Static string 'MNT'
 - to_currency: Currency code
 - buy: Exchange Rate
+- sell: Exchange Rate
 
 To run the command:
 ```
